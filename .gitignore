@@ -3,3 +3,4 @@ venv
 *.html
 *.xlsx
 *.docx
+_backup
